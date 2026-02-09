@@ -42,10 +42,18 @@ When switching to Arabic, RTL is applied
 
 ## Project Screenshots
 
-![Screenshot 1](media/1.jpeg)
-![Screenshot 2](media/2.jpeg)
-![Screenshot 3](media/3.jpeg)
-![Screenshot 4](media/4.jpeg)
-![Screenshot 5](media/5.jpeg)
+<table>
+  <tr>
+    <td><img src="media/1.jpeg" width="200"></td>
+    <td><img src="media/2.jpeg" width="200"></td>
+    <td><img src="media/3.jpeg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="media/4.jpeg" width="200"></td>
+    <td><img src="media/5.jpeg" width="200"></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
