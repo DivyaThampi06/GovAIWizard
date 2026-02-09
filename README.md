@@ -39,3 +39,13 @@ When switching to Arabic, RTL is applied
 - `src/screens`: Step 1/2/3 + Confirmation
 - `src/components`: reusable inputs, progres, AI modal
 - `src/config`: environmental configuration helper
+
+## Project Screenshots
+
+![Screenshot 1](media/1.jpeg)
+![Screenshot 2](media/2.jpeg)
+![Screenshot 3](media/3.jpeg)
+![Screenshot 4](media/4.jpeg)
+![Screenshot 5](media/5.jpeg)
+
+
