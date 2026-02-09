@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "GovAI Wizard",
+    "slug": "gov-ai-wizard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "openaiApiKey": "${EXPO_PUBLIC_OPENAI_API_KEY}"
+    }
+  }
+}
